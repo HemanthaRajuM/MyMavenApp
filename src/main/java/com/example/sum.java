@@ -1,10 +1,13 @@
 package com.example;
 
-public class sum {
-    public static void main(String[] args) {  // Fixed: string → String
-        int a = 5;
-        int b = 8;
-        System.out.println("Sum: " + (a + b));
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello HemanthaRaju M USN:1BI23CS097" );
     }
 }
-
